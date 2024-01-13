@@ -1,0 +1,17 @@
+<p style="color: green"><%= notice %></p>
+
+<h2><%= render @group %></h2>
+
+<% if @group.users.any? %>
+<h3>Members</h3>
+  <% @group.users.each do |u| %>
+          <li><%= u.user_name %></li>
+        <% end %>
+<% end %>
+
+<div>
+  <%= link_to "Edit this group", edit_group_path(@group) %> |
+  <%= link_to "Back to groups", groups_path %>
+
+  <%= button_to "Destroy this group", @group, method: :delete %>
+</div>
