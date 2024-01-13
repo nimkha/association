@@ -45,18 +45,22 @@ Click "Create Group" button under the form.
 ### How to add and remove user from group
 
 From home page click "Show this group" for desired group (from here you can also delete group).
+
 ![show group](app/assets/images/show_group_button.png)
 
 Click "Edit this group"
+
 ![Edit group](app/assets/images/edit_this_group_button.png)
 
 From here all current users will be marked and you can mark/unmark users you to add/remove.
 Click "Update Group" for changes to take effect.
+
 ![edit group members](app/assets/images/edit_group_members_and_click_update_group.png)
 
 ### How to Create user
 
 From the navbar click "Create user"
+
 ![create user](app/assets/images/create_user_button_navbar.png)
 
 Fill in the form fields.
@@ -69,16 +73,20 @@ Click "Creat User" button under the form.
 ### How to add and remove group from user
 
 From navbar click "Show users"
+
 ![show users](app/assets/images/show_user_button_navbar.png)
 
 Click "Show this user" for desired user (from here you can also delete user)
+
 ![show this users](app/assets/images/show_this_user.png)
 
 Click "Edit this user"
+
 ![edit this users](app/assets/images/edit_this_user_button.png)
 
 From here all current groups will be marked and you can mark/unmark the groups you want to add/remove.
 Then click "Update User" under the form
+
 ![edit this users](app/assets/images/edit_this_user_button.png)
 
 
